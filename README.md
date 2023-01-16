@@ -8,3 +8,5 @@ Explore the application of k-means clustering in color compression of a color im
 To explore it, read an image having multiple colors where a large number of colors will be unused, and many of the pixels in the image will have similar or even identical colors. Cluster these several colors into a 16 different clusters and show the compressed image.
 
 Solution by Amitabh Suman
+
+Takes user inout for image with a defaul inage to see the complete work of the Algorithm.
